@@ -1,0 +1,6 @@
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MeteorBlast\MeteorBlast\bin\MeteorBlast.dll.config
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MeteorBlast\MeteorBlast\bin\MeteorBlast.dll
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MeteorBlast\MeteorBlast\bin\MeteorBlast.pdb
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MeteorBlast\MeteorBlast\obj\Release\MeteorBlast.csprojResolveAssemblyReference.cache
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MeteorBlast\MeteorBlast\obj\Release\MeteorBlast.dll
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MeteorBlast\MeteorBlast\obj\Release\MeteorBlast.pdb

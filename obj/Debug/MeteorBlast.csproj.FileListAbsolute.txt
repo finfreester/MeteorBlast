@@ -1,0 +1,5 @@
+C:\Users\pete\Documents\Visual Studio 2010\Projects\MeteorBlast\MeteorBlast\bin\MeteorBlast.dll
+C:\Users\pete\Documents\Visual Studio 2010\Projects\MeteorBlast\MeteorBlast\bin\MeteorBlast.pdb
+C:\Users\pete\Documents\Visual Studio 2010\Projects\MeteorBlast\MeteorBlast\obj\Debug\MeteorBlast.dll
+C:\Users\pete\Documents\Visual Studio 2010\Projects\MeteorBlast\MeteorBlast\obj\Debug\MeteorBlast.pdb
+C:\Users\pete\Documents\Visual Studio 2010\Projects\MeteorBlast\MeteorBlast\obj\Debug\MeteorBlast.csprojResolveAssemblyReference.cache
